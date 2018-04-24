@@ -7,9 +7,9 @@ Autonomous vehicles-Lin
 Autonomous vehicles
 2016 started the new era of the self-driving technology, by using laser radar, ultrasonic sensor, camera, GPU all coded and assembled to the vehicles, they implement part of Autonomous vehicles capability. Currently, Autonomous vehicles technology is still at the laboratory stage; universities, full-fledged software companies or automobile manufacturers are mainly conducting those development activities, and “self-driving” functions, for example like tesla’s vehicles can be assessable by using GPS navigation and visual navigation through multiple active cameras around those vehicles.
 
-IT Technologies
+<b>IT Technologies</b>
 
-Jesse Mesiti 
+<i>Jesse Mesiti</i>
 
 Robots – Robots, in the broadest sense is the term coined to any man-made device that is capable of performing a task (or tasks) semi autonomously. The word robot is derived from the Czech term ‘Robota’ meaning ‘forced work or labour’ and in essence is a direct indication on a robot’s purpose. Whether they are programmed to act autonomously or controlled remotely, robots exist for the sole reason of performing tasks that would otherwise be tedious, dangerous or difficult for a human to. Robots are usually associated with a robotic human-esque machine, but they are everything from this (the pinnacle of the technology) to a small invention in the shape of a box (the humble beginning). This humble beginning was in the Unimate, the first programmable robot. It was installed to work in a factory in 1961 and its purpose was to move hot pieces of metal, which was normally a dangerous task for a human to be doing. 
 
