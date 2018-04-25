@@ -10,8 +10,8 @@ Jesse Mesiti, s3728420. Has a background in maths and science, as well as sport 
 
 <b><i>Team Profile</i></b>
 <i>Jesse</i> 
-http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6
-https://www.16personalities.com/entp-personality
+<p>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6
+https://www.16personalities.com/entp-personality</p>
 
 <b><i>Ideal Jobs</i></b>
 
