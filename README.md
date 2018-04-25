@@ -8,11 +8,35 @@ Assignment 2
 
 Jesse Mesiti, s3728420. Has a background in maths and science, as well as sport and i.t. All of these are from leisure time activities and subjects studied in school. Hobbies varied including anything from health and fitness (gym), to sports (mostly soccer and football) and to computers. Interest in I.T is aimed towards robots and computers once again, in how they work and how they are put together. I.T experience is found exclusively in years studying the subject, and leisure time activities - in this case it was the building of a computer in 2015, except for that not much however.
 
+<i>Matthew Scully (s3722193)</i>
+
+Unlike many other people I have come across, my cultural background is somewhat... vanilla. Both my parents and grandparents, even my great-grandparents were all born and raised in Australia. As far as I know, I have loose ancestral connections to some European countries. These include Sweden, Ireland, England and possibly others which apparently my great, great, great, great...? grandparents came from. I found this quite interesting and surprising when I found out this information because I didn't know of my background up until learning this. A major hobby I enjoy in my spare time is PC computer gaming. I have had some overly fun experiences while playing vast genres of online multiplayer games with friends. I have grown up with PC games since my pre-teens and used it as a great way to cure my boredom. My education to date is I have completed up to Year 12. The high school I went to was Westbourne Grammar School located out Hoppers Crossing way.
+
 <b><i>Team Profile</i></b>
 
 <i>Jesse</i> 
 <p>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6
 https://www.16personalities.com/entp-personality</p>
+
+<i>Matthew</i>
+
+<b>Myer Briggs Test</b>
+
+According to the Myer Briggs Test, I have the personality of a "Protagonist." The results describe me as a natural born leader, full of passion and charisma. Only around 2% of the population fall under this category and turn out to be characters like politicians, teachers and coaches.
+
+<b>My Learning Style</b>
+
+Auditory: 45% Visual: 35% Tactile: 20%
+According to the learning style test, I am mainly an auditory learner, meaning I learn by hearing/listening. I store information by the way it sounds and I remember things by the way I heard them. I have an easier time understanding spoken instructions rather than written ones.
+
+<b>The Big Five Personality Test</b>
+
+This test has five major categories.
+For "Openness" I scored 69% (high range) which tends to mean I am creative, adventurous and intellectual.
+For "Conscientiousness" I scored 42% (low range) which tends to mean I am impulsive and easily side-tracked.
+For "Extraversion" I scored 85% (high range) which tends to mean I am friendly and outgoing.
+For "Agreeableness" I scored 62.5% (moderate range) which tends to mean I balance the interests of myself and others similarly.
+For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely to experience negative emotions and I am more optimistic and carefree.
 
 <b><i>Ideal Jobs</i></b>
 
