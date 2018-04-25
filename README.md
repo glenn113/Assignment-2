@@ -1,10 +1,15 @@
 # Assignment-2
 Assignment 2
 <b>Team Profile</b>
+
 <i>Team Name</i> 
+
 <i>Personal Information</i>
+
 Jesse Mesiti, s3728420. Has a background in maths and science, as well as sport and i.t. All of these are from leisure time activities and subjects studied in school. Hobbies varied including anything from health and fitness (gym), to sports (mostly soccer and football) and to computers. Interest in I.T is aimed towards robots and computers once again, in how they work and how they are put together. I.T experience is found exclusively in years studying the subject, and leisure time activities - in this case it was the building of a computer in 2015, except for that not much however.
-<i>Team Profile</i> 
+
+<i>Team Profile</i>
+
 <i>Ideal Jobs</i> 
 
 Cybersecurity-Glenn
