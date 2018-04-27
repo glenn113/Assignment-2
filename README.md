@@ -64,6 +64,38 @@ While without a doubt robots threaten human employment in mundane labour tasks t
 
 In everyday life robots will change a variety of things, but oppositely some things will remain the same. As I am headed (hopefully) for an occupation in engineering, robots will affect the way that my job is administered and carried out. Many tasks will be owed to the use of robots, whether they be for calculations or demonstrations and as time progresses more and more tasks will be able to be administered and handled out by an artificial intelligence, so in the work mind frame robots will change daily life although the limitations outlined in the paragraph above would still apply. This would be a given for friends and family working in all other manufacturing and development fields of work as well. Within leisure time, robots will also have some implications, we can already see this in programs such as Cortana and Siri. When this technology becomes more accessible and widespread and further coupled with ever-growing artificial intelligence technology it will soon make its way into more everyday aspects of life (aside from computers and phones as Cortana and Siri are). These everyday aspects would be seen in trivial yet essential tasks like turning the lights on and off via voice, or turning on the oven. Something similar to just this can be seen in Alexa (a voice activated/controlled robot that plays music, makes reminders ect.) which proves that the technology is slowly making its way into the everyday lives of people all around the world. In saying this, the way we live our everyday lives will be changed and shaped by the prowess of the artificial intelligence we currently have access to. All these daily tasks will be inextricably linked with robots, just like it was with electricity a few centuries ago. 
 
+Autonomous vehicles
+
+An autonomous car is a vehicle that able to navigate itself through conductions that is without the human. It has become a concrete reality for this type of vehicle, and it may be possible that it will lay the foundation for the future vehicle technology that the Computers will be the domain in the states of driving. 
+2016 is the booming year of self-driving technologies, and it started the new era of the self-driving cars, by using laser radar, ultrasonic sensor, camera, GPU all coded and assembled to the vehicles to help with navigation, they implement part of Autonomous vehicles capability. Currently, Autonomous vehicles technology is still at the laboratory stage; universities, full-fledged software companies or automobile manufacturers are mainly conducting those development activities.
+Nowadays, there are two sets of standards for the classification of intelligent cars. The first made by the U.S. Department of transportation's NHSTA (national highway safety administration); The second standard made by SAE International, the International Association of automobile engineers.
+The standards of both agencies divided into L0~L5, where L0 refers to manual driving. It is important to note that NHTSA has already adopted SAE International's classification standards as early as September 2016.
+Thus, SAE International's standards are much clear. They stipulate that:
+Level		Steering & deceleration control	Observe the environment	Responses for Intense driving	Response conditions
+L0	No automation
+	Driver	Driver	Driver	_
+L1	Driver assistance
+	Driver + System	Driver	Driver	Part
+L2	Partial assistance
+	System	Driver	Driver	Part
+L3	Conditional assistance
+	System	System	Driver	Part
+L4	High automation
+	System	System	System	Part
+L5	Full automation
+	System	System	System	Fully
+(Mraz, 2017)
+
+For example, "Tesla" - the world leading self-driving electric vehicles manufacturer, their vehicles can be assessable by using GPS sensing knowledge to help with navigation, visual sensors through multiple active cameras around those vehicles and laser radar to avoid collisions, and they have reach the L2 level of the autonomous vehicles.
+
+
+
+
+
+Bibliography
+Mraz, S. (2017, Jan 23). Image courtesy of Thinkstock (Image courtesy of Thinkstock) SAE’s 6 Levels of Self-Driving Cars. Retrieved from Machine Design: http://www.machinedesign.com/blog/sae-s-6-levels-self-driving-cars
+
+
 
 
 
