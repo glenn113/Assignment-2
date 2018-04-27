@@ -40,13 +40,10 @@ For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely 
 
 <b><i>Ideal Jobs</i></b>
 
-Cybersecurity-Glenn
-
-Autonomous vehicles-Lin
-Autonomous vehicles
-2016 started the new era of the self-driving technology, by using laser radar, ultrasonic sensor, camera, GPU all coded and assembled to the vehicles, they implement part of Autonomous vehicles capability. Currently, Autonomous vehicles technology is still at the laboratory stage; universities, full-fledged software companies or automobile manufacturers are mainly conducting those development activities, and “self-driving” functions, for example like tesla’s vehicles can be assessable by using GPS navigation and visual navigation through multiple active cameras around those vehicles.
 
 <b>IT Technologies</b>
+Cybersecurity-Glenn
+
 
 <i>Jesse Mesiti</i>
 
@@ -64,6 +61,7 @@ While without a doubt robots threaten human employment in mundane labour tasks t
 
 In everyday life robots will change a variety of things, but oppositely some things will remain the same. As I am headed (hopefully) for an occupation in engineering, robots will affect the way that my job is administered and carried out. Many tasks will be owed to the use of robots, whether they be for calculations or demonstrations and as time progresses more and more tasks will be able to be administered and handled out by an artificial intelligence, so in the work mind frame robots will change daily life although the limitations outlined in the paragraph above would still apply. This would be a given for friends and family working in all other manufacturing and development fields of work as well. Within leisure time, robots will also have some implications, we can already see this in programs such as Cortana and Siri. When this technology becomes more accessible and widespread and further coupled with ever-growing artificial intelligence technology it will soon make its way into more everyday aspects of life (aside from computers and phones as Cortana and Siri are). These everyday aspects would be seen in trivial yet essential tasks like turning the lights on and off via voice, or turning on the oven. Something similar to just this can be seen in Alexa (a voice activated/controlled robot that plays music, makes reminders ect.) which proves that the technology is slowly making its way into the everyday lives of people all around the world. In saying this, the way we live our everyday lives will be changed and shaped by the prowess of the artificial intelligence we currently have access to. All these daily tasks will be inextricably linked with robots, just like it was with electricity a few centuries ago. 
 
+Autonomous vehicles-Lin
 Autonomous vehicles
 
 An autonomous car is a vehicle that able to navigate itself through conductions that is without the human. It has become a concrete reality for this type of vehicle, and it may be possible that it will lay the foundation for the future vehicle technology that the Computers will be the domain in the states of driving. 
