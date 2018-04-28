@@ -116,6 +116,7 @@ For example, "Tesla" - the world leading self-driving electric vehicles manufact
 
 Bibliography
 Mraz, S. (2017, Jan 23). Image courtesy of Thinkstock (Image courtesy of Thinkstock) SAE’s 6 Levels of Self-Driving Cars. Retrieved from Machine Design: http://www.machinedesign.com/blog/sae-s-6-levels-self-driving-cars
+Text2Speech Blog. (2018). What Is Natural Language Processing and How Does It Work?. [online] Available at: https://blog.neospeech.com/what-is-natural-language-processing/ [Accessed 25 Apr. 2018].
 
 
 
