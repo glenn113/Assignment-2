@@ -47,7 +47,8 @@ For "Agreeableness" I scored 62.5% (moderate range) which tends to mean I balanc
 For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely to experience negative emotions and I am more optimistic and carefree.
 
 <b><i>Ideal Jobs</i></b>
-<p>Jesse - Aerospace engineer (military)</p>
+
+<p><i>Jesse - Aerospace engineer (military)</i></p>
 
 <i>Matthew (Java Developer)</i>
 
@@ -67,6 +68,7 @@ I would love to be a director and move into one of those areas and continue lear
 
 
 <b>IT Technologies</b>
+
 Cybersecurity-Glenn
 
 
@@ -122,8 +124,12 @@ For example, "Tesla" - the world leading self-driving electric vehicles manufact
 
 
 Bibliography
+
 Mraz, S. (2017, Jan 23). Image courtesy of Thinkstock (Image courtesy of Thinkstock) SAE’s 6 Levels of Self-Driving Cars. Retrieved from Machine Design: http://www.machinedesign.com/blog/sae-s-6-levels-self-driving-cars
+
 Text2Speech Blog. (2018). What Is Natural Language Processing and How Does It Work?. [online] Available at: https://blog.neospeech.com/what-is-natural-language-processing/ [Accessed 25 Apr. 2018].
+
+Madhavan, R. (2018). Natural Language Processing - Current Applications and Future Possibilities. [online] TechEmergence. Available at: https://www.techemergence.com/nlp-current-applications-and-future-possibilities/ [Accessed 28 Apr. 2018].
 
 
 
