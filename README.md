@@ -49,6 +49,15 @@ For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely 
 <p>Jesse - Aerospace engineer (military)</p>
 
 
+IT Director - Lin
+There are so many different things I could touch on in the IT world. In the future, I would be looking for a Business Analyst role or Security Consultant.
+However, the director position is where I want to be eventually. With director's job is to keep everything in line and keep the stuff moving and keep the project on time and keep every each of team member doing their job efficiently, 
+personally, my leadership style is relationship oriented, I am keen to cooperate with different types of people. 
+However, it can be a stressful job and a great job at the same time, as this job requires not only the professionally IT skills but at least ten years industry experiences and has operated two or more projects in the past three years,
+it also needs Skills like human and Management skill. I know the challenge stood up ahead for me as now I do not have any background and skills to qualified the responsibility this job brought about, but eventually, 
+I would love to be a director and move into one of those areas and continue learning the many different facets of IT and prepared to.
+
+
 <b>IT Technologies</b>
 Cybersecurity-Glenn
 
