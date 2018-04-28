@@ -15,8 +15,15 @@ Unlike many other people I have come across, my cultural background is somewhat.
 <b><i>Team Profile</i></b>
 
 <i>Jesse</i> 
-<p>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6
-https://www.16personalities.com/entp-personality</p>
+<p>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6</p>
+<p>The above personality test identified myself as a visual learner, a learner that does just this best when reading or seeing pictures. It is much easier for someone such as myself to understand and remember things by sight. I can picture what I am  learning in your head, and learn best by using methods that are primarily visual. You like to see what you are learning and when reciting information will often use these visuals to help.
+
+Visual learners are usually neat and clean, although often may have difficulty with spoken directions and may be easily distracted by sounds. Visual learners in generally are attracted to color and spoken language (like stories) that is rich in imagery both metaphorically and literally.</p>
+
+<p>https://www.16personalities.com/entp-personality</p>
+<p>The 16 personalities quiz indentified me with the debater personality type. A debater engages in (mostly) formal discussion on a particular matter , in which opposing arguments are put forward. Debaters generally enjoy being correct and disproving their oppositions arguments or opinions, they don’t do this because they are trying to achieve some deeper purpose or strategic goal, but for the simple reason that it’s fun (and often ego enducing). No one loves the process of mental sparring more than debaters, as it gives them a chance to exercise their effortlessly quick wit, broad accumulated knowledge base, and capacity for connecting disparate ideas to prove their points.
+	
+The main goal of the debater personality type is to gain knowledge, and there is no better way to do this then analysing arguments both your own and someone elses.
 
 <i>Matthew</i>
 
