@@ -39,6 +39,7 @@ For "Agreeableness" I scored 62.5% (moderate range) which tends to mean I balanc
 For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely to experience negative emotions and I am more optimistic and carefree.
 
 <b><i>Ideal Jobs</i></b>
+Jesse - Aerospace engineer (military) 
 
 
 <b>IT Technologies</b>
