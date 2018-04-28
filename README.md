@@ -48,6 +48,13 @@ For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely 
 <b><i>Ideal Jobs</i></b>
 <p>Jesse - Aerospace engineer (military)</p>
 
+<i>Matthew (Java Developer)</i>
+
+The job that is looking to be filled is that of a programmer/developer that will be able to use HTML, CSS and Java. Basically, they are seeking an applicant who will be able to analyse and design software for certain systems. 
+
+What makes this appealing for me is that they are seeking a person experiences in HTML, CSS and Java, all of which I will be studying throughout my course. This means that for me, the job isn't unrealistic for a second or third job (seeing as they are looking for a Senior developer, a graduate probably wouldn't be suitable).
+
+The skills that are needed for this job are that I would need to be experienced in Java EE, Javascript, HTML and CSS. I would also need to know certain web services and web UI technologies. The true experience I would need to have is my ability to form solutions in short time spans. As well as this, source control and version control systems and object-oriented programming is being sought after. To be honest, I am not sure what some of what they are asking means, but it does not throw me off the path to seek the knowledge to obtain this job.
 
 <p>IT Director - Lin</p>
 There are so many different things I could touch on in the IT world. In the future, I would be looking for a Business Analyst role or Security Consultant.
