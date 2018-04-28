@@ -3,6 +3,7 @@ Assignment 2
 <b>Team Profile</b>
 
 <b><i>Team Name</i></b>
+<p>GOUP</p>
 
 <b><i>Personal Information</i></b>
 
