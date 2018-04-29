@@ -105,7 +105,7 @@ I.T Skills – Although not an I.T job, an understanding in programming can help
 
 IT Work
 
-Interviewed Helen- Data analyst/information management officer working for the Commonwealth government (ATO)
+Interviewed Helen Niedzwiecki- Data analyst/information management officer working for the Commonwealth government (ATO)
 
 1.	What kind of work is done by the IT professional?  
 Helen replied 
