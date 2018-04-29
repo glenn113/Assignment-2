@@ -48,18 +48,28 @@ For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely 
 
 <b><i>Ideal Jobs</i></b>
 
-<p><i>Jesse - Aerospace engineer (military)</i></p>
-
-<i>Matthew (Java Developer)</i>
-
-The job that is looking to be filled is that of a programmer/developer that will be able to use HTML, CSS and Java. Basically, they are seeking an applicant who will be able to analyse and design software for certain systems. 
-
-What makes this appealing for me is that they are seeking a person experiences in HTML, CSS and Java, all of which I will be studying throughout my course. This means that for me, the job isn't unrealistic for a second or third job (seeing as they are looking for a Senior developer, a graduate probably wouldn't be suitable).
-
-The skills that are needed for this job are that I would need to be experienced in Java EE, Javascript, HTML and CSS. I would also need to know certain web services and web UI technologies. The true experience I would need to have is my ability to form solutions in short time spans. As well as this, source control and version control systems and object-oriented programming is being sought after. To be honest, I am not sure what some of what they are asking means, but it does not throw me off the path to seek the knowledge to obtain this job.
+<b>1.</b>
+<i>Jesse – Aerospace engineer.<i/>
+<p>Aerospace engineers, although not a job in i.t where not found to be as in demand as civil or construction counterparts when researched, however with Australia’s ambitions to up their military arsenal within the next few years it will definitely be an important occupation.<p/>
+<i>Matthew – Java developer.<i>
+<p>Java developers, according to the March 2018 Burning Glass statistics is the 7th entry on the Top IT jobs title list, at 713.</p>
+Glenn – 
+Lin – 
+<b>2.</b>	
+<i>Aerospace Engineer</i>
+<p>General Skills – Skills in analysis and problem solving as well as creative thinking and a keen attention to detail. Communication skills both verbal and written and project and time management skills. </p>
+<p>Aerospace Skills – A keen understanding in mathematics and physics principals as well as an understanding of aerodynamics.
+I.T Skills – Although not an I.T job, an understanding in programming can help diverge from the crowd and prove to be extremely helpful if and when the introduction of automated aircraft enters the market.</p>
+<i>Java developer</i>
+<p>eneral Skills – The ability to form solutions in short time spans, the ability to solve solutions through abstract and divergent thinking.</p>
+<p>I.T Skills - Experience in Java EE, Javascript, HTML and CSS. Furthermore, knowledge in certain web services and web UI technologies.</p>
+<b>3.</b>
+<p>After looking at the burning glass data for each of our jobs, our opinions have not changed – we are all still interested in them and if anything are glad for this data as it will guide us down that path and allow us to hone the specific skills that employers are looking for. If anything it has changed our opinion for the better as we now have a objectives set for the path towards our goal, and like many know its hard to hit a target if you cant see it. With the skills Burning Glass provides it is easy to see the objectives that will help in the grand scheme of things and will give us a greater chance at achieving our ideal place in employment.</p>
 
 <p>IT Director - Lin</p>
+
 There are so many different things I could touch on in the IT world. In the future, I would be looking for a Business Analyst role or Security Consultant.
+
 However, the director position is where I want to be eventually. With director's job is to keep everything in line and keep the stuff moving and keep the project on time and keep every each of team member doing their job efficiently, 
 personally, my leadership style is relationship oriented, I am keen to cooperate with different types of people. 
 However, it can be a stressful job and a great job at the same time, as this job requires not only the professionally IT skills but at least ten years industry experiences and has operated two or more projects in the past three years,
