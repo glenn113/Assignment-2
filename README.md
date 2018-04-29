@@ -56,7 +56,7 @@ For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely 
 <p>Java developers, according to the March 2018 Burning Glass statistics is the 7th entry on the Top IT jobs title list, at 713.</p>
 <i>Lin – I.T Director</i>
 <p>Although I.T Director did not appear on the list, it can encompass a great deal of jobs within the director field, as such I would think it to be one of the more in demand occupations.</p>
-Glenn – 
+Glenn – IT data analyst/scientist
 <b>2.</b>	
 	
 <i>Aerospace Engineer</i>
