@@ -103,6 +103,48 @@ I.T Skills – Although not an I.T job, an understanding in programming can help
 <b>3.</b>
 <p>After looking at the burning glass data for each of our jobs, our opinions have not changed – we are all still interested in them and if anything are glad for this data as it will guide us down that path and allow us to hone the specific skills that employers are looking for. If anything it has changed our opinion for the better as we now have a objectives set for the path towards our goal, and like many know its hard to hit a target if you cant see it. With the skills Burning Glass provides it is easy to see the objectives that will help in the grand scheme of things and will give us a greater chance at achieving our ideal place in employment.</p>   
 
+IT Work
+
+Interviewed Helen- Data analyst/information management officer working for the Commonwealth government (ATO)
+
+1.	What kind of work is done by the IT professional?  
+Helen replied 
+
+ “I work in Information Management; I am currently working on our Business Glossary, an enterprise wide product available to everyone in the organization. It houses our business terms and definitions, as well as acronyms – it is the single source of truth. My role is the review the terms by engaging Subject Matter Experts to provide assurance our information is correct. Also, I am learning SharePoint because our department will be installing Office 365 and the new SharePoint over the next few months, and my team will be providing user support, that is from the point of view of Information Management, ensuring good meta data principles are adopted, record keeping principles are followed, and good site design layouts are set up.”
+
+She also added
+
+“I volunteered to support my team in a card sort exercise. I needed to travel to other offices to organize call centre staff into groups to sort 200 cards, these cards represented procedures the team used daily. The card sort revealed groupings to be used in a new IT reference product that is being designed.
+I frequently attend training session to keep up to date.
+         I am the first aid office for my floor”
+
+
+
+2.	What kinds of people does the IT professional interact with? Are they other IT  professionals? Clients? Investors? The general public? 
+ She replied
+
+
+“my team, i.e. my colleagues, I wok in a team and it is important we work well together
+other IT teams, my team interacts daily with other teams
+IT management, i.e. my manager, she gives guidance and set priorities
+Users, it is important the products we design met the expectations of our customers
+Subject Matter Experts, I liaise with several people who are experts in their field to gain knowledge”
+
+In regard to IT professionals she added
+“My team interacts with a number of IT professionals, including the IT Service Desk, where we report faults with our equipment. Also, technical areas because are in the process of updating our Business Glossary, we need to verify the process for the install and on-going maintenance”
+
+
+3.	Where does the IT professional spend most of their time?  
+She replied
+“My current work is reviewing terms for the Business Glossary, this is taking up most of my time, there are over 90 sub-categories, I need to contact over 90 Subject Matter Experts, quality assess the terms, ingest and publish the terms.”
+
+
+4.	What aspect of their position is most challenging?  
+She replied
+“Communication, communication – when dealing with people it is easy to mis-interpret instructions, especially when IT technical staff need to liaise with users, it is easy for instructions to be mis-understood. My team acts as a go-between for different group within our organization, therefore promoting good information management practices”
+
+
+
 <b>IT Technologies</b>
 
 <i>Jesse Mesiti</i>
