@@ -137,15 +137,20 @@ There are those companies who try to make vehicles fully autonomous, such as for
 For example, "Tesla" - the world leading self-driving electric vehicles manufacturer, their vehicles can be assessable by using GPS sensing knowledge to help with navigation, visual sensors through multiple active cameras around those vehicles and laser radar to avoid collisions, and they have reach the L2+ level of the autonomous vehicles.
 There is a research report by the consulting firm PwC which projected that by 2030 self-driving cars on a ride-sharing platform like Uber or Didi could reduce by 90% the total number of cars on the road now. The basic equation on this is if the current vehicle usage is that they are now driven only 10% of the time and parked 90% of the time, then if that reversed, it would reduce the number of cars on the road by 90%. The research does not imply this is what will happen precisely in the future, but that is the direction things are going.
 
+we are starting our new era that the man-driven vehicles may well at the situation that humanity first on a large scale that uses automobiles that end the uses of horses.
+ 
+
+
+
 There will be two sides impact of this development is that current major mass transportation projects like rail, etcetera, may now be unnecessary if 90% of cars and traffic go away as PwC predicts. Of course, many things would change, and the impact would be huge on energy need, jobs, urban planning, workplace design, pollution. On the other hand, as all the vehicles will undoubtedly be autonomous so there will be no needed for parking, the cost of insurance will be much cheaper and more creative ways to use vehicles.
 First of all, The parking lots. How dark is the parking lot industry? In the United States alone, more than 10,000 square kilometres of land used for parking. Washington DC citizen spent more than $90 million in parking lots every year! Moreover, if there is a self-driving car, people will never have to pay ten or even 20 dollars for parking every hour. Research shows that autonomous driving saves at least 40 percent of parking space. Technology companies are also developing cars with free parking. When the owner gets off the bus, the car will look for a parking space. When the car owner needs to return, the car will open ahead of time. It will save people time to finding a parking spot. Secondly, their insurance. Ninety percent of all traffic accidents are human-made. If there is no traffic accident, there will be no injuries, what can insurance companies eat? Perhaps these companies could consider how to ensure humanoid robots, such as how to compensate for faulty machines and how to handle disputes between autonomous vehicles.
 
 Below: comparison of the cost of driving and driving insurance. In either model, self-driving will be many times cheaper. 
 
+Moreover, Autonomous vehicles will have the impact on the traffic on the way of our trip. The popularity of driverless cars can help people solve these problems to a large extent. When people get tired, they can put the vehicles into autonomous mode. Thus, people get adequate rest. At the same time, people will start to realize that they do not have to waste the extra time and money on the tickets for planes or trains. Autonomous vehicles will have the impact on the traffic on the way of our trip.
 
-
-
-
+Personally, first of all, it is impossible to deny that unmanned driving has a significant impact on the way we travel and the way we travel. So, what are the specific aspects of these impacts? In contrast, the present, for long distance travelling the primary way of our trip is by plane or train, but we often will miss the beautiful views on the trip. So, what about driving? We can drive our vehicles stop at anywhere and anytime to enjoy and catch the beauty of the trip, but Long hour driving could become exhaustion and dangerous. Thus, if we will have no worries if we can get our autonomous vehicles on the road.
+From another perspective, because of the self-driving technology, can we don't have to worry about how long we will reach the destination, because we can rest in the car, games, which makes our journey more interesting, the driver can really involve in the family entertainment, let the way we travel from the destination travel into a more comfortable, "journey" - the destination tourism type, this is our experience of travel and tourism mentality. In addition, unmanned driving down for us, such as security problem solved, let us have more time to explore local beauty and culture, we may not meet again in a certain destination, you can further to get to know the local conditions and customs of a place, that is to say, let our travel more "detailed".
 
 
 
