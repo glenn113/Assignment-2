@@ -13,6 +13,8 @@ Jesse Mesiti, s3728420. Has a background in maths and science, as well as sport 
 
 Unlike many other people I have come across, my cultural background is somewhat... vanilla. Both my parents and grandparents, even my great-grandparents were all born and raised in Australia. As far as I know, I have loose ancestral connections to some European countries. These include Sweden, Ireland, England and possibly others which apparently my great, great, great, great...? grandparents came from. I found this quite interesting and surprising when I found out this information because I didn't know of my background up until learning this. A major hobby I enjoy in my spare time is PC computer gaming. I have had some overly fun experiences while playing vast genres of online multiplayer games with friends. I have grown up with PC games since my pre-teens and used it as a great way to cure my boredom. My education to date is I have completed up to Year 12. The high school I went to was Westbourne Grammar School located out Hoppers Crossing way.
 
+Glenn Roberts-I’m Glenn Roberts my student number is 3721547 and email s3721547@student.rmit.edu.au and I am from Melbourne. I believe in a balanced lifestyle. I play videogames and watch TV shows but I also try to exercise when I can whether that be going to the gym or running around the block. I also believe in the saying “healthy body healthy mind” in addition I also watch what I eat to try and live a healthy lifestyle. My fun fact is that I am a black belt in taekwondo, not many people expect that.
+
 <b><i>Team Profile</i></b>
 
 <i>Jesse</i> 
