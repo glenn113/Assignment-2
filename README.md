@@ -71,6 +71,10 @@ I.T Skills – Although not an I.T job, an understanding in programming can help
 <i>IT Director</i>
 <p>General Skills - Succinct skills in both the building of and maintaning of professional relationships, the ability to communicate and to lead, as well as organisational skills in particular ones revolving around resource and time management. These skills are extremely important for this occupation as it is the role of a leader, and leaders are often role models. </p>
 <p>I.T Skills - A broad understanding of the I.T field in general, from all phases starting from the initial development and planning to the final execution of the project, as well as a deeper understanding of the project the team is currently working.</p>
+<i>Data Analyst</i>
+<p>General Skills - A keen eye for detail as well as skills in maths, business, statistics and technology. A data analyst would also need to posess a knowledge in (suprisingly) analytics.</p>
+<p>I.T Skills - Knowledge in computer software and tools including; scripting language, examples being Matlab and Python,  Spreadsheets and data lists, mostly found within a program such as Excel. Finally a knowledge in programming , whether it be in a language like Javascript or XML</p>
+
 <b>3.</b>
 <p>After looking at the burning glass data for each of our jobs, our opinions have not changed – we are all still interested in them and if anything are glad for this data as it will guide us down that path and allow us to hone the specific skills that employers are looking for. If anything it has changed our opinion for the better as we now have a objectives set for the path towards our goal, and like many know its hard to hit a target if you cant see it. With the skills Burning Glass provides it is easy to see the objectives that will help in the grand scheme of things and will give us a greater chance at achieving our ideal place in employment.</p>
 
