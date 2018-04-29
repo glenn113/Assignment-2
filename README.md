@@ -105,7 +105,7 @@ I.T Skills – Although not an I.T job, an understanding in programming can help
 
 IT Work
 
-Interviewed Helen Niedzwiecki- Data analyst/information management officer working for the Commonwealth government (ATO)
+Glenn Roberts- I Interviewed Helen Niedzwiecki- Data analyst/information management officer working for the Commonwealth government (ATO)
 
 1.	What kind of work is done by the IT professional?  
 Helen replied 
@@ -181,7 +181,7 @@ The issue with cyber security is that it is a silent threat and it’s not very 
 
 IT PROJECT
 
-The project idea we decided on would be a complete smart house. This house will unitize voice recognition all around the house and be connected to a centralised system.  The vision/goal is that a person can walk into his or her home without needing to touch anything. This smart home system is already in its early stages, for example amazon released its new home assistant device called ‘echo’ and google realised its new home assistant device called “google home”. However, we want to take this technology and concept and push it further. 
+Glenn Roberts-The project idea we decided on would be a complete smart house. This house will unitize voice recognition all around the house and be connected to a centralised system.  The vision/goal is that a person can walk into his or her home without needing to touch anything. This smart home system is already in its early stages, for example amazon released its new home assistant device called ‘echo’ and google realised its new home assistant device called “google home”. However, we want to take this technology and concept and push it further. 
 
 A major problem with these smart devices is that it feels like your nitrating with the device rather than the home. The goal is to centralise the entire house under one system, this includes everything from appliances to doors and windows. This centralised system will make it easier for users to set up and make it less complicated. Instead of buying multiple products for multiple jobs and performances around the house the buyer can just buy one product for the whole house.
 
