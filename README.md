@@ -49,13 +49,16 @@ For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely 
 <b><i>Ideal Jobs</i></b>
 
 <b>1.</b>
-<i>Jesse – Aerospace engineer.<i/>
+
+<i>Jesse – Aerospace engineer<i/>
 <p>Aerospace engineers, although not a job in i.t where not found to be as in demand as civil or construction counterparts when researched, however with Australia’s ambitions to up their military arsenal within the next few years it will definitely be an important occupation.<p/>
-<i>Matthew – Java developer.<i>
+<i>Matthew – Java developer<i>
 <p>Java developers, according to the March 2018 Burning Glass statistics is the 7th entry on the Top IT jobs title list, at 713.</p>
+<i>Lin – I.T Director<i/>
+<p>Although I.T Director did not appear on the list, it can encompass a great deal of jobs within the director field, as such I would think it to be one of the more in demand occupations.
 Glenn – 
-Lin – 
 <b>2.</b>	
+	
 <i>Aerospace Engineer</i>
 <p>General Skills – Skills in analysis and problem solving as well as creative thinking and a keen attention to detail. Communication skills both verbal and written and project and time management skills. </p>
 <p>Aerospace Skills – A keen understanding in mathematics and physics principals as well as an understanding of aerodynamics.
@@ -63,19 +66,11 @@ I.T Skills – Although not an I.T job, an understanding in programming can help
 <i>Java developer</i>
 <p>eneral Skills – The ability to form solutions in short time spans, the ability to solve solutions through abstract and divergent thinking.</p>
 <p>I.T Skills - Experience in Java EE, Javascript, HTML and CSS. Furthermore, knowledge in certain web services and web UI technologies.</p>
+<i>IT Director</i>
+<p>General Skills - Succinct skills in both the building of and maintaning of professional relationships, the ability to communicate and to lead, as well as organisational skills in particular ones revolving around resource and time management. These skills are extremely important for this occupation as it is the role of a leader, and leaders are often role models. </p>
+<p>I.T Skills - A broad understanding of the I.T field in general, from all phases starting from the initial development and planning to the final execution of the project, as well as a deeper understanding of the project the team is currently working.</p>
 <b>3.</b>
 <p>After looking at the burning glass data for each of our jobs, our opinions have not changed – we are all still interested in them and if anything are glad for this data as it will guide us down that path and allow us to hone the specific skills that employers are looking for. If anything it has changed our opinion for the better as we now have a objectives set for the path towards our goal, and like many know its hard to hit a target if you cant see it. With the skills Burning Glass provides it is easy to see the objectives that will help in the grand scheme of things and will give us a greater chance at achieving our ideal place in employment.</p>
-
-<p>IT Director - Lin</p>
-
-There are so many different things I could touch on in the IT world. In the future, I would be looking for a Business Analyst role or Security Consultant.
-
-However, the director position is where I want to be eventually. With director's job is to keep everything in line and keep the stuff moving and keep the project on time and keep every each of team member doing their job efficiently, 
-personally, my leadership style is relationship oriented, I am keen to cooperate with different types of people. 
-However, it can be a stressful job and a great job at the same time, as this job requires not only the professionally IT skills but at least ten years industry experiences and has operated two or more projects in the past three years,
-it also needs Skills like human and Management skill. I know the challenge stood up ahead for me as now I do not have any background and skills to qualified the responsibility this job brought about, but eventually, 
-I would love to be a director and move into one of those areas and continue learning the many different facets of IT and prepared to.
-
 
 <b>IT Technologies</b>
 
