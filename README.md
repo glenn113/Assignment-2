@@ -48,6 +48,20 @@ For "Extraversion" I scored 85% (high range) which tends to mean I am friendly a
 For "Agreeableness" I scored 62.5% (moderate range) which tends to mean I balance the interests of myself and others similarly.
 For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely to experience negative emotions and I am more optimistic and carefree.
 
+Glenn Roberts
+
+Myers-Briggs test
+ISTJ - The Duty Fulfiller
+
+the test s show that I am more or a doer/follower rather than a leader in a group environment. This is true in most cases because I am very responsible and I know that the leader of the group is putting responsibility on me to complete the task. However, if I need to be a leader then I can step up to the plate when I need to and i am very adative to the enviroment.
+
+Learining style quiz-Visual
+If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning.
+As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
+
+
+
+
 <b><i>Ideal Jobs</i></b>
 
 <i>Compare/Contrast Ideal Jobs</i>
