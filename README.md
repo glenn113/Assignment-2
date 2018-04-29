@@ -66,7 +66,7 @@ For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely 
 <p>Aerospace Skills – A keen understanding in mathematics and physics principals as well as an understanding of aerodynamics.
 I.T Skills – Although not an I.T job, an understanding in programming can help diverge from the crowd and prove to be extremely helpful if and when the introduction of automated aircraft enters the market.</p>
 <i>Java developer</i>
-<p>eneral Skills – The ability to form solutions in short time spans, the ability to solve solutions through abstract and divergent thinking.</p>
+<p>General Skills – The ability to form solutions in short time spans, the ability to solve solutions through abstract and divergent thinking.</p>
 <p>I.T Skills - Experience in Java EE, Javascript, HTML and CSS. Furthermore, knowledge in certain web services and web UI technologies.</p>
 <i>IT Director</i>
 <p>General Skills - Succinct skills in both the building of and maintaning of professional relationships, the ability to communicate and to lead, as well as organisational skills in particular ones revolving around resource and time management. These skills are extremely important for this occupation as it is the role of a leader, and leaders are often role models. </p>
