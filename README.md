@@ -53,11 +53,11 @@ For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely 
 <i>Jesse – Aerospace engineer</i>
 <p>Aerospace engineers, although not a job in i.t where not found to be as in demand as civil or construction counterparts when researched, however with Australia’s ambitions to up their military arsenal within the next few years it will definitely be an important occupation.</p>
 <i>Matthew – Java developer</i>
-<p>Java developers, according to the March 2018 Burning Glass statistics is the 7th entry on the Top IT jobs title list, at 713.</p>
+<p>Java developers, according to the March 2018 Burning Glass statistics is the 7th entry on the Top IT jobs title list, at 713. Java is undoubtably one of the more popular coding languages that is used in a great number of corporations all around the world, in saying this Java developers will always be in demand in a great many companies and countries.</p>
 <i>Lin – I.T Director</i>
-<p>Although I.T Director did not appear on the list, it can encompass a great deal of jobs within the director field, such as Service Delivery Manager which was ranked 18th with 338. As such I would think it to be one of the more in demand occupations.</p>
+<p>Although I.T Director did not appear on the list, it can encompass a great deal of jobs within the director field, such as Service Delivery Manager which was ranked 18th with 338. As such I would think it to be one of the more in demand occupations because of this and while leadership is a rare trait in a sense, it is also one of the most important for both an established or emerging corporation.</p>
 <i>Glenn – IT data analyst/scientist</i>
-<p>Data analyst fell under a range of titles within the March 2018 burning glass statistics and as such took up a range of positions on the list, Service Desk Analyst was ranked the highest being 5th on the list with 779 whilst Senior test analysis was ranked the lowest on the list with 275.
+<p>Data analyst fell under a range of titles within the March 2018 burning glass statistics and as such took up a range of positions on the list, Service Desk Analyst was ranked the highest being 5th on the list with 779 whilst Senior test analysis was ranked the lowest on the list with 275. Data analytics will always be in demand as corporations are always looking to improve their performance and the best way to do this is to examine statistics and data, because of this all companies will be interested in data analytics and will seek out an analyst to translate the quantifiyable statistics into quantative words.
 
 <b>2.</b>	
 	
@@ -79,9 +79,6 @@ I.T Skills – Although not an I.T job, an understanding in programming can help
 <p>After looking at the burning glass data for each of our jobs, our opinions have not changed – we are all still interested in them and if anything are glad for this data as it will guide us down that path and allow us to hone the specific skills that employers are looking for. If anything it has changed our opinion for the better as we now have a objectives set for the path towards our goal, and like many know its hard to hit a target if you cant see it. With the skills Burning Glass provides it is easy to see the objectives that will help in the grand scheme of things and will give us a greater chance at achieving our ideal place in employment.</p>
 
 <b>IT Technologies</b>
-
-Cybersecurity-Glenn
-
 
 <i>Jesse Mesiti</i>
 
