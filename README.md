@@ -102,11 +102,16 @@ The likely impact and the impact that this technology is having is it
 <p>Autonomous vehicles</p>
 <p>Cheng Lin BAI</p>
 
-An autonomous car is a vehicle that able to navigate itself through conductions that is without the human. It has become a concrete reality for this type of vehicle, and it may be possible that it will lay the foundation for the future vehicle technology that the Computers will be the domain in the states of driving. 
-2016 is the booming year of self-driving technologies, and it started the new era of the self-driving cars, by using laser radar, ultrasonic sensor, camera, GPU all coded and assembled to the vehicles to help with navigation, they implement part of Autonomous vehicles capability. Currently, Autonomous vehicles technology is still at the laboratory stage; universities, full-fledged software companies or automobile manufacturers are mainly conducting those development activities.
+Autonomous vehicles
+
+An autonomous car is a vehicle that able to navigate itself through conductions that is without the human. It really has the potential to change everything and yet has become a concrete reality for this type of vehicle, and it may be possible that it will lay the foundation for the future vehicle technology that the Computers will be the domain in the states of driving. 
+2016 is the booming year of self-driving technologies, and it started the new era of the self-driving cars, by using laser radar, ultrasonic sensor, camera, GPU all coded and assembled to the vehicles to help with navigation, they implement part of Autonomous vehicles capability. Currently, Autonomous vehicles technology is still at the laboratory stage; universities, full-fledged software companies or automobile manufacturers are mainly conducting those development activities. 
+
 Nowadays, there are two sets of standards for the classification of intelligent cars. The first made by the U.S. Department of transportation's NHSTA (national highway safety administration); The second standard made by SAE International, the International Association of automobile engineers.
 The standards of both agencies divided into L0~L5, where L0 refers to manual driving. It is important to note that NHTSA has already adopted SAE International's classification standards as early as September 2016.
+
 Thus, SAE International's standards are much clear. They stipulate that:
+
 Level		Steering & deceleration control	Observe the environment	Responses for Intense driving	Response conditions
 L0	No automation
 	Driver	Driver	Driver	_
@@ -122,7 +127,18 @@ L5	Full automation
 	System	System	System	Fully
 (Mraz, 2017)
 
-For example, "Tesla" - the world leading self-driving electric vehicles manufacturer, their vehicles can be assessable by using GPS sensing knowledge to help with navigation, visual sensors through multiple active cameras around those vehicles and laser radar to avoid collisions, and they have reach the L2 level of the autonomous vehicles.
+There are those companies who try to make vehicles fully autonomous, such as ford, Audi, Mercedes, Google. Also, there have manufactures that do the automatic auxiliary driving, like Volvo, Tesla, etc.,
+For example, "Tesla" - the world leading self-driving electric vehicles manufacturer, their vehicles can be assessable by using GPS sensing knowledge to help with navigation, visual sensors through multiple active cameras around those vehicles and laser radar to avoid collisions, and they have reach the L2+ level of the autonomous vehicles.
+There is a research report by the consulting firm PwC which projected that by 2030 self-driving cars on a ride-sharing platform like Uber or Didi could reduce by 90% the total number of cars on the road now. The basic equation on this is if the current vehicle usage is that they are now driven only 10% of the time and parked 90% of the time, then if that reversed, it would reduce the number of cars on the road by 90%. The research does not imply this is what will happen precisely in the future, but that is the direction things are going.
+
+There will be two sides impact of this development is that current major mass transportation projects like rail, etcetera, may now be unnecessary if 90% of cars and traffic go away as PwC predicts. Of course, many things would change, and the impact would be huge on energy need, jobs, urban planning, workplace design, pollution. On the other hand, as all the vehicles will undoubtedly be autonomous so there will be no needed for parking, the cost of insurance will be much cheaper and more creative ways to use vehicles.
+First of all, The parking lots. How dark is the parking lot industry? In the United States alone, more than 10,000 square kilometres of land used for parking. Washington DC citizen spent more than $90 million in parking lots every year! Moreover, if there is a self-driving car, people will never have to pay ten or even 20 dollars for parking every hour. Research shows that autonomous driving saves at least 40 percent of parking space. Technology companies are also developing cars with free parking. When the owner gets off the bus, the car will look for a parking space. When the car owner needs to return, the car will open ahead of time. It will save people time to finding a parking spot. Secondly, their insurance. Ninety percent of all traffic accidents are human-made. If there is no traffic accident, there will be no injuries, what can insurance companies eat? Perhaps these companies could consider how to ensure humanoid robots, such as how to compensate for faulty machines and how to handle disputes between autonomous vehicles.
+
+Below: comparison of the cost of driving and driving insurance. In either model, self-driving will be many times cheaper. 
+
+
+
+
 
 
 
