@@ -52,7 +52,7 @@ For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely 
 
 <i>Jesse – Aerospace engineer<i/>
 <p>Aerospace engineers, although not a job in i.t where not found to be as in demand as civil or construction counterparts when researched, however with Australia’s ambitions to up their military arsenal within the next few years it will definitely be an important occupation.<p/>
-<i>Matthew – Java developer<i>
+<i>Matthew – Java developer<i/>
 <p>Java developers, according to the March 2018 Burning Glass statistics is the 7th entry on the Top IT jobs title list, at 713.</p>
 <i>Lin – I.T Director<i/>
 <p>Although I.T Director did not appear on the list, it can encompass a great deal of jobs within the director field, as such I would think it to be one of the more in demand occupations.
