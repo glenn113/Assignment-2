@@ -179,6 +179,28 @@ One problem society is facing is with these new developments in IT is some jobs 
 
 The issue with cyber security is that it is a silent threat and it’s not very tangible. Because of that civilians and people outside of the industry are normally oblivious to cyber threats and attacks. This is mainly due to societies trust we have in our cyber security agencies to defend the nation. However, if there was a successful attack that got through out defence then generally we would know and could have a major impact. For example, if there was an attack on the energy grid then we may will lose power to cities or even the entire country. Or if there was an attack on the healthcare system then it could have major consequences and pose a significant risk to human life. Yes there are major ramifications for these attacks if they are successful but just in everyday life no one seems stressed or anxious about it. So many people hold the belief that the government can handle it which may be true but this can put people in a false sense of security especially with the ever-changing cyber security world. 
 
+Nikki-Cloud servers 
+What does it do (600)
+
+simplest terms, cloud computing means storing and accessing data and programs over the Internet instead of your computer's hard drive
+
+A cloud server could be describe and functions similar to a physical server however, the possibilities and functionality of a cloud server is much more broad and big. To explain what a cloud server is, the “cloud” term has been around since the early 1996, blew up and expanded with the term “cloud computing” by Amazon through its infamous Elastic Compute Cloud product. A cloud server is server that is built, hosted through and all over the internet.Cloud servers are created using virtualisation software to divide a physical server into multiple virtual servers. The cloud server is much more flexible as it is more accessible 
+benefits provided by the cloud servers are extraordinary and expanding everyday. With the cloud servers, the resources available are online and can b e reach within minutes a massive improvement from physical servers. 
+
+Cloud have been around us for decades. for example
+
+Apple iCloud service is used for online storage, back ups of your mails, contacts, messages and so much more. all available within Apple’s devices that runs iOS, Mac os or even to other operating system like window. 
+
+Google drive is no different, with similar concept, google docs, sheets etc are available within computer and mobile devices 
+
+While the “cloud” has improved and made all of our lives so much easier, it also raises issues within the community about “securities of information” and “cost” simply “ who owns the data?”
+
+The ISPs, telcos, and media companies control your access. Putting all your faith in the cloud means you're also agreeing to unfettered access. 
+
+
+
+
+
 IT PROJECT
 
 Glenn Roberts-The project idea we decided on would be a complete smart house. This house will unitize voice recognition all around the house and be connected to a centralised system.  The vision/goal is that a person can walk into his or her home without needing to touch anything. This smart home system is already in its early stages, for example amazon released its new home assistant device called ‘echo’ and google realised its new home assistant device called “google home”. However, we want to take this technology and concept and push it further. 
