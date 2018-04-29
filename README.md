@@ -55,8 +55,10 @@ For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely 
 <i>Matthew – Java developer</i>
 <p>Java developers, according to the March 2018 Burning Glass statistics is the 7th entry on the Top IT jobs title list, at 713.</p>
 <i>Lin – I.T Director</i>
-<p>Although I.T Director did not appear on the list, it can encompass a great deal of jobs within the director field, as such I would think it to be one of the more in demand occupations.</p>
-Glenn – IT data analyst/scientist
+<p>Although I.T Director did not appear on the list, it can encompass a great deal of jobs within the director field, such as Service Delivery Manager which was ranked 18th with 338. As such I would think it to be one of the more in demand occupations.</p>
+<i>Glenn – IT data analyst/scientist</i>
+<p>Data analyst fell under a range of titles within the March 2018 burning glass statistics and as such took up a range of positions on the list, Service Desk Analyst was ranked the highest being 5th on the list with 779 whilst Senior test analysis was ranked the lowest on the list with 275.
+
 <b>2.</b>	
 	
 <i>Aerospace Engineer</i>
