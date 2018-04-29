@@ -48,6 +48,10 @@ For "Neuroticism" I scored 42% (low range) which tends to mean I am less likely 
 
 <b><i>Ideal Jobs</i></b>
 
+<i>Compare/Contrast Ideal Jobs</i>
+
+A common comparison between the group’s ideal jobs is that three out of the four members wanted to do something that involved programming in general. Both Matthew and Glenn’s jobs required similar skills in the IT field with a knowledge in programming (specifically Java) being sought after. While on the surface, most of the group appeared to have similar functioning jobs, an obvious difference is that Jesse is not seeking a job precisely within the IT industry. With the ideal job of aerospace engineer being listed, Jesse would be working on automated aircraft meaning he would be working in the expanding industry of IT in aviation rather than in the current standard industry that the other members chose as their ideal. Lin would also be taking on the role more of a leader / planner rather than a programmer or developer. When compared to Matthew and Glenn’s job, Lin would still need to have grasped the knowledge of programming, while being able to take charge as an IT director and plan out projects through good use of communication. Glenn stated that he would ideally like to be a data analyst (or scientist) meaning that he would be closely looking at statistics and through his skills in business and mathematics, as well as informatics, be able to construct graphs out of data set. Finally, Matthew would like to take on a programming / developer side of work which means that he would be closely working with someone like Lin (IT director) to achieve a solution for a company. Whether it be an application or website… etc, Matthew would need to have skills in programming and web design to work in his ideal career. Overall, each of the members have chosen quite different paths or fields in the IT industry to work in. While it appears that Matthew and Lin would have more in common than the other members, their jobs still contain different aspects to them and therefore each member has chosen a unique career path in the IT industry for them. 
+
 <b>1.</b>
 
 <i>Jesse – Aerospace engineer</i>
